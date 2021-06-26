@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Felipe Marques</h1>
-<h3 align="center">A dedicated Computer Science and Back-end developer from Recife, Brazil</h3>
+<h1 align="center">Hi 👋, I'm Felipe</h1>
+<h3 align="center">A dedicated Computer Science student and Back-end developer from Recife, Brazil</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felipecolor9" alt="felipecolor9" /></a> </p>
 
