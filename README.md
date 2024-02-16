@@ -1,8 +1,6 @@
 <h1 align="center">Felipe Marques Silva</h1>
 <h3 align="center">Desenvolvedor Back-end; Devops; Estudante de Ciência da Computação; Entusiasta de carros e música; pai de Camila</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=felipecolor9&label=Profile%20views&color=0e75b6&style=flat" alt="felipecolor9" /> </p>
-
 - 🔭 Atualmente trabalhando com o projeto [Pipeline Terraform/Github Actions](https://github.com/felipecolor9/terraform-pipeline-github-actions-example)
 
 - 🌱 Atualmente aprendendo mais sobre **Terraform/AWS**
